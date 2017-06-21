@@ -1,14 +1,7 @@
-# hello_world
+# hello_force
+STAR WARS
 
-first_step
-
-so,
-that's the start to me with github.
-
-naaa....  
-i am not sure to write something yet  
-just say"HELLO WORLD"
-
-by a word  
-i am a STARWARS fun  
+so,that's the begin
+   
 MAY THE FORCE BE WITH YOU
+THE FORCE SHALL FREE ME
